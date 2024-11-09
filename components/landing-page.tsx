@@ -49,7 +49,7 @@ export function LandingPageComponent() {
         <section className="py-20 text-center bg-gradient-to-b from-cyan-100 to-indigo-200">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 lg:text-5xl mb-6">
-              Revolutionize Tissue Research with Virtual Simulations
+              Tissue Research with Virtual Simulations
             </h1>
             <p className="max-w-2xl text-lg text-indigo-700 mx-auto mb-8">
               Join a global community of researchers advancing tissue modeling through collaborative virtual simulations.
